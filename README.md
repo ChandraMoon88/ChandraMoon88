@@ -17,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandramoon88&show_icons=true&locale=en&layout=compact" alt="chandramoon88" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandramoon88&show_icons=true&locale=en" alt="chandramoon88" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandramoon88&" alt="chandramoon88" /></p>
