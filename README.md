@@ -37,7 +37,7 @@
   - JavaScript
 
 #### Repositories:
-![Repositories](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
+![Repositories](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 1. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)** - Jupyter Notebook
 2. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)** - Profile Repository
 3. **[demo-git](https://github.com/ChandraMoon88/demo-git)** - Explaining Git Concepts
@@ -55,4 +55,5 @@
   <img src="https://streak-stats.demolab.com?user=ChandraMoon88&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=ChandraMoon88&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraMoon88&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="150" alt="success graph" />
 </div>
