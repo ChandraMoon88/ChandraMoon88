@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kuncham Chandra Shekar
 ## A Passionate Computer and Data Science Engineer from India  
 
-![Data Scientist](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFtZXR5N3Y4b2t5MHI3cXh1empnYXluMWRpcXNmdWx5Z2t2Ymh5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyRd59KCTFCTmxQWZL/giphy.gif)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFtZXR5N3Y4b2t5MHI3cXh1empnYXluMWRpcXNmdWx5Z2t2Ymh5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyRd59KCTFCTmxQWZL/giphy.gif" width="500"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chandramoon88&label=Profile%20views&color=0e75b6&style=flat)  
 **Profile Views**
@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me 🚀
-![About Me](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZkeGZ6dzk0dGFwbXhzMW1kN3VycjFoeWNiZWJ0d2w1NjR4dno3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXkraFrlIW1D25M6ZJ/giphy.gif)  
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZkeGZ6dzk0dGFwbXhzMW1kN3VycjFoeWNiZWJ0d2w1NjR4dno3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXkraFrlIW1D25M6ZJ/giphy.gif" width="500"/>  
 🔭 I’m currently working on **Quantum Deepfake Detection** 🧑‍💻  
 🎓 Computer & Data Science Engineer passionate about **Data Science, Machine Learning, Deep Learning, and Quantum AI** 🧠  
 🌱 Currently exploring **Generative AI and Quantum GANs** 🎨  
@@ -19,13 +19,13 @@
 ---
 
 ## 🔗 Connect with Me 🤝
-![Networking](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRmYXlkbjdtcW9wZTVjeXg4ZHB2d3NkbWVxYjBia3RtYXZvNnVoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvTKJoo9Dudou54YY6/giphy.gif)  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRmYXlkbjdtcW9wZTVjeXg4ZHB2d3NkbWVxYjBia3RtYXZvNnVoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvTKJoo9Dudou54YY6/giphy.gif" width="500"/>  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuncham-chandra-shekar-953056210)
 
 ---
 
 ## 🛠️ Languages and Tools ⚙️
-![Tools](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM5azg0MWRldDBwd2Vmb3BjYnJkYjFkbWdscjVqNjg4Ym80eXI3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)  
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM5azg0MWRldDBwd2Vmb3BjYnJkYjFkbWdscjVqNjg4Ym80eXI3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
@@ -34,17 +34,22 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache-Spark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
 ---
 
 ## 📊 GitHub Profile Overview 🏆
-![GitHub Stats](https://media.giphy.com/media/3ohzdZ8r1Z7a3e3Gww/giphy.gif)  
+<img src="https://media.giphy.com/media/3ohzdZ8r1Z7a3e3Gww/giphy.gif" width="500"/>  
 - **Total Repositories:** 6  
 - **Languages Used:** Jupyter Notebook, TypeScript, JavaScript
 
 ### 📂 Repositories 🌟
-![Repos](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhyOG43czNkeHU5cW42c3VsZ3QxNWJ3dnFjeXR1MGtva3F0d2dmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)  
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhyOG43czNkeHU5cW42c3VsZ3QxNWJ3dnFjeXR1MGtva3F0d2dmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500"/>  
 1. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)** - Jupyter Notebook  
 2. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)** - Profile Repository  
 3. **[demo-git](https://github.com/ChandraMoon88/demo-git)** - Explaining Git Concepts  
@@ -55,7 +60,7 @@
 ---
 
 ## 🔥 Contributions & Achievements 🚀
-![Contributions](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1veDBmdG51ZjFubnBwbzE5b3J3ZW1ibzlrYzRoeTk1d2dna2I3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornjSUxhZ4XCdfdPq/giphy.gif)  
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1veDBmdG51ZjFubnBwbzE5b3J3ZW1ibzlrYzRoeTk1d2dna2I3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornjSUxhZ4XCdfdPq/giphy.gif" width="500"/>  
 - **Total Contributions:** 13
 
 <div align="center">
@@ -69,9 +74,9 @@
 ---
 
 ## 🎮 Let's Play a Game! 🕹️
-![Game](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFkZmFra3pmdGd6MWR6NDlrZzR3aDR0cnFwaWkzMG5yMHVrMWFidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQO3dG0scKkkRAY5GN/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFkZmFra3pmdGd6MWR6NDlrZzR3aDR0cnFwaWkzMG5yMHVrMWFidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQO3dG0scKkkRAY5GN/giphy.gif" width="500"/>
 
 ---
 
 ## 🎉 Thank You for Visiting! 🚀
-![Thank You](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNpNTZkamM5dzczcDgxenNlbDFpdmQ5MHNlczRjbWdxd205MWZ0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/21HtXqCprrU7Xsr0qo/giphy.gif)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNpNTZkamM5dzczcDgxenNlbDFpdmQ5MHNlczRjbWdxd205MWZ0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/21HtXqCprrU7Xsr0qo/giphy.gif" width="500"/>
