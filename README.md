@@ -1,26 +1,36 @@
-<h1 align="center">Hi 👋, I'm Kuncham Chandra Shekar</h1>
-<h3 align="center">A passionate Computer and Data Science Engineer from India</h3>
+# Hi 👋, I'm Kuncham Chandra Shekar
+## A passionate Computer and Data Science Engineer from India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandramoon88&label=Profile%20views&color=0e75b6&style=flat" alt="chandramoon88" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=chandramoon88&label=Profile%20views&color=0e75b6&style=flat)
 
 📫 How to reach me **chandrashekarkuncham7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/kuncham-chandra-shekar-953056210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kuncham-chandra-shekar-953056210" height="30" width="40" /></a>
-</p>
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuncham-chandra-shekar-953056210)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
-</p>
+### Languages and Tools:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)
+
+### GitHub Profile Data Analysis:
+- **Total Repositories:** 6
+- **Languages Used:**
+  - Jupyter Notebook
+  - TypeScript
+  - JavaScript
+
+#### Repositories:
+1. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)** - Jupyter Notebook
+2. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)** - Profile Repository
+3. **[demo-git](https://github.com/ChandraMoon88/demo-git)** - Explaining Git Concepts
+4. **[nextjs-with-supabase](https://github.com/ChandraMoon88/nextjs-with-supabase)** - TypeScript (Private)
+5. **[Twitter-Sentiment-Analysis](https://github.com/ChandraMoon88/Twitter-Sentiment-Analysis)** - Jupyter Notebook
+6. **[website-clone](https://github.com/ChandraMoon88/website-clone)** - JavaScript
+
+#### Contributions:
+- **Total Contributions:** 13
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChandraMoon88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -29,5 +39,3 @@
   <img src="https://github-profile-trophy.vercel.app?username=ChandraMoon88&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraMoon88&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
