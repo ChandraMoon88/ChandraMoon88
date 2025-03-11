@@ -28,8 +28,8 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
 </p>
 
-### GitHub Profile Data Analysis:
-![Analysis](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+### GitHub Profile Overview:
+![Analysis](https://media.giphy.com/media/l2JhL6v6cViG8hN9K/giphy.gif)
 - **Total Repositories:** 6
 - **Languages Used:**
   - Jupyter Notebook
@@ -55,5 +55,10 @@
   <img src="https://streak-stats.demolab.com?user=ChandraMoon88&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=ChandraMoon88&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraMoon88&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="150" alt="success graph" />
 </div>
+
+### Thank You!
+![Thank You](https://media.giphy.com/media/26gsspf0CqeG6n9TG/giphy.gif)
+
+### Let's Play a Game!
+![Game](https://media.giphy.com/media/3oEduMaDrfJuQpA4tK/giphy.gif)
