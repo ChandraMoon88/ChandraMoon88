@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me 🚀
-![About Me](https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif?cid=790b7611lpszo8mvv3in8qn4gitnludxk3zta9alrvd9nced&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
+![About Me](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZkeGZ6dzk0dGFwbXhzMW1kN3VycjFoeWNiZWJ0d2w1NjR4dno3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXkraFrlIW1D25M6ZJ/giphy.gif)
 
 🔭 I’m currently working on **Quantum Deepfake Detection** 🧑‍💻  
 🎓 Computer & Data Science Engineer passionate about **Data Science, Machine Learning, Deep Learning, and Quantum AI** 🧠  
