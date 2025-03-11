@@ -1,8 +1,7 @@
 # Hi 👋, I'm Kuncham Chandra Shekar
 ## A Passionate Computer and Data Science Engineer from India  
 
-![Data Scientist](https://media.giphy.com/media/26tn33aiTi1jkl6H6/200w_d.gif)  
-**Data Scientist**
+![Data Scientist]([https://media.giphy.com/media/26tn33aiTi1jkl6H6/200w_d.gif](https://giphy.com/gifs/teamwork-data-analytics-datalab-dyzew7Py7bnW9DiJJj))  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chandramoon88&label=Profile%20views&color=0e75b6&style=flat)  
 **Profile Views**
