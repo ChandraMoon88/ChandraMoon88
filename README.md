@@ -9,8 +9,7 @@
 ---
 
 ## 🌟 About Me 🚀
-![About Me](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZkeGZ6dzk0dGFwbXhzMW1kN3VycjFoeWNiZWJ0d2w1NjR4dno3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXkraFrlIW1D25M6ZJ/giphy.gif)
-
+![About Me](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZkeGZ6dzk0dGFwbXhzMW1kN3VycjFoeWNiZWJ0d2w1NjR4dno3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXkraFrlIW1D25M6ZJ/giphy.gif)  
 🔭 I’m currently working on **Quantum Deepfake Detection** 🧑‍💻  
 🎓 Computer & Data Science Engineer passionate about **Data Science, Machine Learning, Deep Learning, and Quantum AI** 🧠  
 🌱 Currently exploring **Generative AI and Quantum GANs** 🎨  
@@ -40,7 +39,7 @@
 ---
 
 ## 📊 GitHub Profile Overview 🏆
-![GitHub Stats](https://media.giphy.com/media/3ohzdZ8r1Z7a3e3Gww/200w_d.gif)  
+![GitHub Stats](https://media.giphy.com/media/3ohzdZ8r1Z7a3e3Gww/giphy.gif)  
 - **Total Repositories:** 6  
 - **Languages Used:** Jupyter Notebook, TypeScript, JavaScript
 
