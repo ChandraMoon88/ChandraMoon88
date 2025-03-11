@@ -1,33 +1,32 @@
 # Hi 👋, I'm Kuncham Chandra Shekar
 ## A Passionate Computer and Data Science Engineer from India  
 
-![Data Scientist](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Data Scientist](https://media.giphy.com/media/26tn33aiTi1jkl6H6/200w_d.gif)  
+**Data Scientist**
 
-![Profile Views](https://komarev.com/ghpvc/?username=chandramoon88&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=chandramoon88&label=Profile%20views&color=0e75b6&style=flat)  
+**Profile Views**
 
 ---
 
 ## 🌟 About Me 🚀
-![About Me](https://media.giphy.com/media/xUOwGchzYpIpI1oxmo/giphy.gif)
-
-- 🔭 I’m currently working on **Quantum Deepfake Detection** 🧑‍💻
-- 🎓 Computer & Data Science Engineer passionate about **Data Science, Machine Learning, Deep Learning, and Quantum AI** 🧠
-- 🌱 Currently exploring **Generative AI and Quantum GANs** 🎨
-- 💬 Ask me about **AI, Data Science, and Quantum Computing** 🤖
-- 📫 How to reach me: **chandrashekarkuncham7@gmail.com** ✉️
+![About Me](https://media.giphy.com/media/xUOwGchzYpIpI1oxmo/200w_d.gif)  
+🔭 I’m currently working on **Quantum Deepfake Detection** 🧑‍💻  
+🎓 Computer & Data Science Engineer passionate about **Data Science, Machine Learning, Deep Learning, and Quantum AI** 🧠  
+🌱 Currently exploring **Generative AI and Quantum GANs** 🎨  
+💬 Ask me about **AI, Data Science, and Quantum Computing** 🤖  
+📫 How to reach me: **chandrashekarkuncham7@gmail.com** ✉️
 
 ---
 
 ## 🔗 Connect with Me 🤝
-![Networking](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
-
+![Networking](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/200w_d.gif)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuncham-chandra-shekar-953056210)
 
 ---
 
 ## 🛠️ Languages and Tools ⚙️
-![Tools](https://media.giphy.com/media/UqZ7Jb4VjsVqw/giphy.gif)
-
+![Tools](https://media.giphy.com/media/UqZ7Jb4VjsVqw/200w_d.gif)  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
@@ -41,26 +40,23 @@
 ---
 
 ## 📊 GitHub Profile Overview 🏆
-![GitHub Stats](https://media.giphy.com/media/3ohzdZ8r1Z7a3e3Gww/giphy.gif)
-
-- **Total Repositories:** 6
+![GitHub Stats](https://media.giphy.com/media/3ohzdZ8r1Z7a3e3Gww/200w_d.gif)  
+- **Total Repositories:** 6  
 - **Languages Used:** Jupyter Notebook, TypeScript, JavaScript
 
 ### 📂 Repositories 🌟
-![Repos](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
-
-1. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)** - Jupyter Notebook
-2. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)** - Profile Repository
-3. **[demo-git](https://github.com/ChandraMoon88/demo-git)** - Explaining Git Concepts
-4. **[nextjs-with-supabase](https://github.com/ChandraMoon88/nextjs-with-supabase)** - TypeScript (Private)
-5. **[Twitter-Sentiment-Analysis](https://github.com/ChandraMoon88/Twitter-Sentiment-Analysis)** - Jupyter Notebook
+![Repos](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/200w_d.gif)  
+1. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)** - Jupyter Notebook  
+2. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)** - Profile Repository  
+3. **[demo-git](https://github.com/ChandraMoon88/demo-git)** - Explaining Git Concepts  
+4. **[nextjs-with-supabase](https://github.com/ChandraMoon88/nextjs-with-supabase)** - TypeScript (Private)  
+5. **[Twitter-Sentiment-Analysis](https://github.com/ChandraMoon88/Twitter-Sentiment-Analysis)** - Jupyter Notebook  
 6. **[website-clone](https://github.com/ChandraMoon88/website-clone)** - JavaScript
 
 ---
 
 ## 🔥 Contributions & Achievements 🚀
-![Contributions](https://media.giphy.com/media/l0Ex3kRzHj2f6gf6w/giphy.gif)
-
+![Contributions](https://media.giphy.com/media/l0Ex3kRzHj2f6gf6w/200w_d.gif)  
 - **Total Contributions:** 13
 
 <div align="center">
@@ -74,9 +70,9 @@
 ---
 
 ## 🎮 Let's Play a Game! 🕹️
-![Game](https://media.giphy.com/media/3oEduMaDrfJuQpA4tK/giphy.gif)
+![Game](https://media.giphy.com/media/3oEduMaDrfJuQpA4tK/200w_d.gif)
 
 ---
 
 ## 🎉 Thank You for Visiting! 🚀
-![Thank You](https://media.giphy.com/media/26gsspf0CqeG6n9TG/giphy.gif)
+![Thank You](https://media.giphy.com/media/26gsspf0CqeG6n9TG/200w_d.gif)
