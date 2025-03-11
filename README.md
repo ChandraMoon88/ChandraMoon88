@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me 🚀
-![About Me](https://media.giphy.com/media/xUOwGchzYpIpI1oxmo/200w_d.gif)  
+![About Me](https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif?cid=790b7611lpszo8mvv3in8qn4gitnludxk3zta9alrvd9nced&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
 🔭 I’m currently working on **Quantum Deepfake Detection** 🧑‍💻  
 🎓 Computer & Data Science Engineer passionate about **Data Science, Machine Learning, Deep Learning, and Quantum AI** 🧠  
 🌱 Currently exploring **Generative AI and Quantum GANs** 🎨  
