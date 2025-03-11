@@ -10,6 +10,7 @@
 
 ## 🌟 About Me 🚀
 ![About Me](https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif?cid=790b7611lpszo8mvv3in8qn4gitnludxk3zta9alrvd9nced&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
+
 🔭 I’m currently working on **Quantum Deepfake Detection** 🧑‍💻  
 🎓 Computer & Data Science Engineer passionate about **Data Science, Machine Learning, Deep Learning, and Quantum AI** 🧠  
 🌱 Currently exploring **Generative AI and Quantum GANs** 🎨  
@@ -19,13 +20,13 @@
 ---
 
 ## 🔗 Connect with Me 🤝
-![Networking](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/200w_d.gif)  
+![Networking](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRmYXlkbjdtcW9wZTVjeXg4ZHB2d3NkbWVxYjBia3RtYXZvNnVoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvTKJoo9Dudou54YY6/giphy.gif)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuncham-chandra-shekar-953056210)
 
 ---
 
 ## 🛠️ Languages and Tools ⚙️
-![Tools](https://media.giphy.com/media/UqZ7Jb4VjsVqw/200w_d.gif)  
+![Tools](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM5azg0MWRldDBwd2Vmb3BjYnJkYjFkbWdscjVqNjg4Ym80eXI3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
@@ -44,7 +45,7 @@
 - **Languages Used:** Jupyter Notebook, TypeScript, JavaScript
 
 ### 📂 Repositories 🌟
-![Repos](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/200w_d.gif)  
+![Repos](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhyOG43czNkeHU5cW42c3VsZ3QxNWJ3dnFjeXR1MGtva3F0d2dmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)  
 1. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)** - Jupyter Notebook  
 2. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)** - Profile Repository  
 3. **[demo-git](https://github.com/ChandraMoon88/demo-git)** - Explaining Git Concepts  
@@ -55,7 +56,7 @@
 ---
 
 ## 🔥 Contributions & Achievements 🚀
-![Contributions](https://media.giphy.com/media/l0Ex3kRzHj2f6gf6w/200w_d.gif)  
+![Contributions](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1veDBmdG51ZjFubnBwbzE5b3J3ZW1ibzlrYzRoeTk1d2dna2I3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornjSUxhZ4XCdfdPq/giphy.gif)  
 - **Total Contributions:** 13
 
 <div align="center">
@@ -69,9 +70,9 @@
 ---
 
 ## 🎮 Let's Play a Game! 🕹️
-![Game](https://media.giphy.com/media/3oEduMaDrfJuQpA4tK/200w_d.gif)
+![Game](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFkZmFra3pmdGd6MWR6NDlrZzR3aDR0cnFwaWkzMG5yMHVrMWFidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQO3dG0scKkkRAY5GN/giphy.gif)
 
 ---
 
 ## 🎉 Thank You for Visiting! 🚀
-![Thank You](https://media.giphy.com/media/26gsspf0CqeG6n9TG/200w_d.gif)
+![Thank You](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNpNTZkamM5dzczcDgxenNlbDFpdmQ5MHNlczRjbWdxd205MWZ0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/21HtXqCprrU7Xsr0qo/giphy.gif)
