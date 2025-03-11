@@ -26,6 +26,7 @@
 </p>
 
 ### GitHub Profile Data Analysis:
+![Analysis](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 - **Total Repositories:** 6
 - **Languages Used:**
   - Jupyter Notebook
@@ -33,6 +34,7 @@
   - JavaScript
 
 #### Repositories:
+![Repositories](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
 1. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)** - Jupyter Notebook
 2. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)** - Profile Repository
 3. **[demo-git](https://github.com/ChandraMoon88/demo-git)** - Explaining Git Concepts
@@ -41,6 +43,7 @@
 6. **[website-clone](https://github.com/ChandraMoon88/website-clone)** - JavaScript
 
 #### Contributions:
+![Contributions](https://media.giphy.com/media/l0Ex3kRzHj2f6gf6w/giphy.gif)
 - **Total Contributions:** 13
 
 <div align="center">
