@@ -1,6 +1,8 @@
 # Hi 👋, I'm Kuncham Chandra Shekar
 ## A passionate Computer and Data Science Engineer from India
 
+![Data Scientist](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=chandramoon88&label=Profile%20views&color=0e75b6&style=flat)
 
 📫 How to reach me **chandrashekarkuncham7@gmail.com**
@@ -9,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuncham-chandra-shekar-953056210)
 
 ### Languages and Tools:
+![Languages and Tools](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
