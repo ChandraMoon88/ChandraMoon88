@@ -56,16 +56,16 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhyOG43czNkeHU5cW42c3VsZ3QxNWJ3dnFjeXR1MGtva3F0d2dmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500"/>
 
 1. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)** - Jupyter Notebook
-2.   
-3. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)** - Profile Repository
-4.  
-5. **[demo-git](https://github.com/ChandraMoon88/demo-git)** - Explaining Git Concepts
-6.   
-7. **[nextjs-with-supabase](https://github.com/ChandraMoon88/nextjs-with-supabase)** - TypeScript (Private)
-8.  
-9. **[Twitter-Sentiment-Analysis](https://github.com/ChandraMoon88/Twitter-Sentiment-Analysis)** - Jupyter Notebook
-10.  
-11. **[website-clone](https://github.com/ChandraMoon88/website-clone)** - JavaScript
+   
+2. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)** - Profile Repository
+   
+3. **[demo-git](https://github.com/ChandraMoon88/demo-git)** - Explaining Git Concepts
+   
+4. **[nextjs-with-supabase](https://github.com/ChandraMoon88/nextjs-with-supabase)** - TypeScript (Private)
+    
+5. **[Twitter-Sentiment-Analysis](https://github.com/ChandraMoon88/Twitter-Sentiment-Analysis)** - Jupyter Notebook
+  
+6. **[website-clone](https://github.com/ChandraMoon88/website-clone)** - JavaScript
 
 ---
 
