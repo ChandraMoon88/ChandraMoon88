@@ -56,16 +56,12 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhyOG43czNkeHU5cW42c3VsZ3QxNWJ3dnFjeXR1MGtva3F0d2dmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500"/>
 
 1. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)** - Jupyter Notebook
-   
 2. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)** - Profile Repository
-   
 3. **[demo-git](https://github.com/ChandraMoon88/demo-git)** - Explaining Git Concepts
-   
 4. **[nextjs-with-supabase](https://github.com/ChandraMoon88/nextjs-with-supabase)** - TypeScript (Private)
-    
 5. **[Twitter-Sentiment-Analysis](https://github.com/ChandraMoon88/Twitter-Sentiment-Analysis)** - Jupyter Notebook
-  
 6. **[website-clone](https://github.com/ChandraMoon88/website-clone)** - JavaScript
+7. **[Warrantly-Claims-Fraud-Prediction](https://github.com/ChandraMoon88/Warrantly-Claims-Fraud-Prediction)** - Jupyter Notebook
 
 ---
 
@@ -75,7 +71,7 @@
 - **Total Contributions:** 13
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandraMoon88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&order=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandraMoon88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&langs_count=8&order=1" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChandraMoon88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=ChandraMoon88&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
   <img src="https://github-profile-trophy.vercel.app?username=ChandraMoon88&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Stats" />
