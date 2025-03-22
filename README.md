@@ -62,6 +62,7 @@
 5. **[Twitter-Sentiment-Analysis](https://github.com/ChandraMoon88/Twitter-Sentiment-Analysis)** - Jupyter Notebook
 6. **[website-clone](https://github.com/ChandraMoon88/website-clone)** - JavaScript
 7. **[Warrantly-Claims-Fraud-Prediction](https://github.com/ChandraMoon88/Warrantly-Claims-Fraud-Prediction)** - Jupyter Notebook
+8. **[Room-Occupancy-Detection](https://github.com/ChandraMoon88/Room-Occupancy-Detection)** - Jupyter Notebook
 
 ---
 
