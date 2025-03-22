@@ -48,7 +48,7 @@
 ## 📊 GitHub Profile Overview 🏆
 <img src="https://media.giphy.com/media/3ohzdZ8r1Z7a3e3Gww/giphy.gif" width="500"/>
 
-- **Total Repositories:** 6  
+- **Total Repositories:** 7  
 - **Languages Used:**
   - Jupyter Notebook, TypeScript, JavaScript
 
