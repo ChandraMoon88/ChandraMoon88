@@ -48,21 +48,22 @@
 ## 📊 GitHub Profile Overview 🏆
 <img src="https://media.giphy.com/media/3ohzdZ8r1Z7a3e3Gww/giphy.gif" width="500"/>
 
-- **Total Repositories:** 8  
+- **Total Repositories:** 9  
 - **Languages Used:**
-  - Jupyter Notebook, TypeScript, JavaScript
+  - Python, HTML, CSS, JavaScript,
 
 ### 📂 Repositories 🌟
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhyOG43czNkeHU5cW42c3VsZ3QxNWJ3dnFjeXR1MGtva3F0d2dmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500"/>
 
-1. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)** - Jupyter Notebook
-2. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)** - Profile Repository
-3. **[demo-git](https://github.com/ChandraMoon88/demo-git)** - Explaining Git Concepts
-4. **[nextjs-with-supabase](https://github.com/ChandraMoon88/nextjs-with-supabase)** - TypeScript (Private)
-5. **[Twitter-Sentiment-Analysis](https://github.com/ChandraMoon88/Twitter-Sentiment-Analysis)** - Jupyter Notebook
-6. **[website-clone](https://github.com/ChandraMoon88/website-clone)** - JavaScript
-7. **[Warrantly-Claims-Fraud-Prediction](https://github.com/ChandraMoon88/Warrantly-Claims-Fraud-Prediction)** - Jupyter Notebook
-8. **[Room-Occupancy-Detection](https://github.com/ChandraMoon88/Room-Occupancy-Detection)** - Jupyter Notebook
+1. **[ChandraMoon88](https://github.com/ChandraMoon88/ChandraMoon88)**
+2. **[demo-git](https://github.com/ChandraMoon88/demo-git)**
+3. **[nextjs-with-supabase](https://github.com/ChandraMoon88/nextjs-with-supabase)**
+4. **[Twitter-Sentiment-Analysis](https://github.com/ChandraMoon88/Twitter-Sentiment-Analysis)**
+5. **[website-clone](https://github.com/ChandraMoon88/website-clone)**
+6. **[Warrantly-Claims-Fraud-Prediction](https://github.com/ChandraMoon88/Warrantly-Claims-Fraud-Prediction)**
+7. **[Room-Occupancy-Detection](https://github.com/ChandraMoon88/Room-Occupancy-Detection)**
+8. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)**
+9. **[Neural-Image-Style-Transfer](https://github.com/ChandraMoon88/Airline-Company-Analysis)**
 
 ---
 
