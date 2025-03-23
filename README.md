@@ -31,10 +31,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache-Spark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
@@ -63,7 +61,7 @@
 6. **[Warrantly-Claims-Fraud-Prediction](https://github.com/ChandraMoon88/Warrantly-Claims-Fraud-Prediction)**
 7. **[Room-Occupancy-Detection](https://github.com/ChandraMoon88/Room-Occupancy-Detection)**
 8. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)**
-9. **[Neural-Image-Style-Transfer](https://github.com/ChandraMoon88/Airline-Company-Analysis)**
+9. **[Neural-Image-Style-Transfer](https://github.com/ChandraMoon88/Neural-Image-Style-Transfer)**
 
 ---
 
