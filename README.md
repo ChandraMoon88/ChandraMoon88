@@ -13,6 +13,7 @@
 🔭 I’m currently working on **Quantum Deepfake Detection** 🧑‍💻  
 🎓 Computer & Data Science Engineer passionate about **Data Science, Machine Learning, Deep Learning, and Quantum AI** 🧠  
 🌱 Currently exploring **Generative AI and Quantum GANs** 🎨  
+🏥 Interested in applying **AI/ML to Healthcare** for disease prediction and medical imaging 💊  
 💬 Ask me about **AI, Data Science, and Quantum Computing** 🤖  
 📫 How to reach me: **chandrashekarkuncham7@gmail.com** ✉️
 
@@ -46,7 +47,7 @@
 ## 📊 GitHub Profile Overview 🏆
 <img src="https://media.giphy.com/media/3ohzdZ8r1Z7a3e3Gww/giphy.gif" width="500"/>
 
-- **Total Repositories:** 9  
+- **Total Repositories:** 10  
 - **Languages Used:**
   - Python, HTML, CSS, JavaScript,
 
@@ -62,6 +63,7 @@
 7. **[Room-Occupancy-Detection](https://github.com/ChandraMoon88/Room-Occupancy-Detection)**
 8. **[Airline-Company-Analysis](https://github.com/ChandraMoon88/Airline-Company-Analysis)**
 9. **[Neural-Image-Style-Transfer](https://github.com/ChandraMoon88/Neural-Image-Style-Transfer)**
+10. **[Healthcare-Disease-Prediction](https://github.com/ChandraMoon88/Healthcare-Disease-Prediction)**
 
 ---
 
