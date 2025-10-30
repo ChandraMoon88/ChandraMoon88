@@ -10,9 +10,7 @@
 ## 🌟 About Me 🚀
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZkeGZ6dzk0dGFwbXhzMW1kN3VycjFoeWNiZWJ0d2w1NjR4dno3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXkraFrlIW1D25M6ZJ/giphy.gif" width="500"/>
 
-🔭 I’m currently working on **Quantum Deepfake Detection** 🧑‍💻  
 🎓 Computer & Data Science Engineer passionate about **Data Science, Machine Learning, Deep Learning, and Quantum AI** 🧠  
-🌱 Currently exploring **Generative AI and Quantum GANs** 🎨  
 💬 Ask me about **AI, Data Science, and Quantum Computing** 🤖  
 📫 How to reach me: **chandrashekarkuncham7@gmail.com** ✉️
 
