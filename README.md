@@ -16,13 +16,6 @@
 
 ---
 
-## 🔗 Connect with Me 🤝
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRmYXlkbjdtcW9wZTVjeXg4ZHB2d3NkbWVxYjBia3RtYXZvNnVoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvTKJoo9Dudou54YY6/giphy.gif" width="500"/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuncham-chandra-shekar-953056210)
-
----
-
 ## 🛠️ Languages and Tools ⚙️
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM5azg0MWRldDBwd2Vmb3BjYnJkYjFkbWdscjVqNjg4Ym80eXI3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 
